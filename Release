@@ -1,8 +1,8 @@
-Origin: Rishanan's Repo
-Label: Rishanan's Repo
+Origin: Antique's Repo
+Label: Antique's Official Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Where the fun begins
+Description: iOS the way it's meant to be

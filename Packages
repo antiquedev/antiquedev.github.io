@@ -1,4 +1,4 @@
-Package: com.antique.chameleon
+Package: red.antique.chameleon
 Name: Chameleon
 Version: 1.0.0.4-7
 Architecture: iphoneos-arm
@@ -9,4 +9,4 @@ Section: Tweaks
 Filename: debs//Chameleon.deb
 Size: 20464bytes
 MD5sum: 1e2972903dc4e57c922ea5b06317fda4
-Depiction: https://antiquedev.github.io/depic/com.antique.chameleon/index.html
+Depiction: https://antiquedev.github.io/depic/red.antique.chameleon/index.html
