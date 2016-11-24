@@ -1,0 +1,16 @@
+Package: com.antique.chameleon
+Name: Chameleon 
+Version: 1.0.0.4-8
+Size: 230404bytes
+Architecture: iphoneos-arm
+Description: Compatible with iOS 7, 8 & 9 Chameleon is a Springtomize alternative in a smaller tweak. Features include the ability to edit 3D Touch menus, change the dock height, disable page dots, edit the messages app and many more.
+Maintainer: Antique <boernai290@gmail.com>
+Author: Antique <boernai290@gmail.com>
+Section: Tweaks
+MD5sum: 41b38760cd39b1b526f15750c2fa6a49
+SHA1sum: d232a88939b12ec7ec60507d79cfc79ebcd2ed33
+SHA256sum: 67f72c0965630cc5facbc0fb1b88de3d0940299060a6e93036eff04c7be1bdb9
+Filename: debs//Chameleon.deb
+
+
+
