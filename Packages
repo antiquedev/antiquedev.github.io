@@ -1,0 +1,31 @@
+Package: com.antique.chameleon
+Name: Chameleon 
+Version: 1.0.0.5
+Size: 230434
+Architecture: iphoneos-arm
+Description: Compatible with iOS 7, 8 & 9
+Maintainer: Antique <boernai290@gmail.com>
+Author: Antique <boernai290@gmail.com>
+Section: Tweaks
+MD5sum: 8fcd38305e5f448fe1e2f6ce529b21f7
+SHA1sum: 816552097ce674f70f4a5081e292651d75b7da45
+SHA256sum: d808b74c880c95f072ac6c771ce80e90fdcd4fc1b9e76a1bfd4835e91e831cc1
+Filename: debs//Chameleon.deb
+
+Package: com.antique.live+
+Name: Live+
+Version: 0.1-2
+Size: 3848
+Architecture: iphoneos-arm
+Description: Compatible with iOS 8 & 9
+Live+ gives you control over the UI elements available on the "Live Video" screen.
+Maintainer: Antique <boernai290@gmail.com>
+Author: Antique <boernai290@gmail.com>
+Section: Tweaks
+MD5sum: a925e58d42d0e10d9c6c630c8fc2ae4e
+SHA1sum: 53c45b435428665ff4edb276de421ab92666bf8f
+SHA256sum: 41c28d4b8391fe1f3bd3e46568be4ca7e618a417a6990929b7f3f8e7f5b0eb1c
+Filename: debs//Live.deb
+
+
+
