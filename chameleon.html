@@ -8,8 +8,21 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+
+
+<style type="text/css">
+   .mobileShow {
+ 
+display: none;}
+   /* Smartphone Portrait and Landscape */
+   @media only screen
+   and (min-device-width : 320px)
+   and (max-device-width : 750px){ .mobileShow { display: inline;}}
+</style>
 	</head>
 	<body>
+
+<div class="mobileShow">
 
 		<!-- Wrapper -->
 			<div id="wrapper">
@@ -48,6 +61,7 @@
 					</footer>
 
 			</div>
+</div>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
